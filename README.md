@@ -1,2 +1,3 @@
 # NomeCompleto
-É um programa no qual efetua a formação de um nome completo.
+É um programa que  efetua um nome completo !!
+
